@@ -1,0 +1,11 @@
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\bin\Debug\Sınav.exe.config
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\bin\Debug\Sınav.exe
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\bin\Debug\Sınav.pdb
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\obj\Debug\Sınav.csproj.AssemblyReference.cache
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\obj\Debug\Sınav.csproj.SuggestedBindingRedirects.cache
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\obj\Debug\Sınav.Form1.resources
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\obj\Debug\Sınav.Properties.Resources.resources
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\obj\Debug\Sınav.csproj.GenerateResource.cache
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\obj\Debug\Sınav.csproj.CoreCompileInputs.cache
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\obj\Debug\Sınav.exe
+C:\Users\AG1-LAB-PC1\Desktop\Berat Topaloğlu\Sınav\Sınav\obj\Debug\Sınav.pdb

@@ -1,0 +1,7 @@
+<connectionStrings>
+ <add name="ConStr"
+ connectionString="Data Source=.\SQLEXPRESS;
+ Initial Catalog=DbHastane;
+ Integrated Security=True;"
+ providerName="System.Data.SqlClient" />
+ </connectionStrings>

@@ -1,0 +1,16 @@
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\bin\Debug\soru.exe.config
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\bin\Debug\soru.exe
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\bin\Debug\soru.pdb
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\bin\Debug\EntityFramework.dll
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\bin\Debug\EntityFramework.xml
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\obj\Debug\soru.csproj.AssemblyReference.cache
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\obj\Debug\soru.csproj.SuggestedBindingRedirects.cache
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\obj\Debug\soru.Form1.resources
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\obj\Debug\soru.Properties.Resources.resources
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\obj\Debug\soru.csproj.GenerateResource.cache
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\obj\Debug\soru.csproj.CoreCompileInputs.cache
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\obj\Debug\soru.csproj.CopyComplete
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\obj\Debug\soru.exe
+C:\Users\AG1-LAB-PC1\Desktop\deneme\soru\soru\obj\Debug\soru.pdb

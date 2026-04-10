@@ -1,0 +1,22 @@
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\bin\Debug\Araba alım-satım.exe.config
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\bin\Debug\Araba alım-satım.exe
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\bin\Debug\Araba alım-satım.pdb
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.csproj.AssemblyReference.cache
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.csproj.SuggestedBindingRedirects.cache
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\obj\Debug\Araba_alım_satım.Form1.resources
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\obj\Debug\Araba_alım_satım.Properties.Resources.resources
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.csproj.GenerateResource.cache
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.csproj.CoreCompileInputs.cache
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.exe
+C:\Users\AG1-LAB-PC1\source\repos\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.pdb
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\bin\Debug\Araba alım-satım.exe.config
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\bin\Debug\Araba alım-satım.exe
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\bin\Debug\Araba alım-satım.pdb
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.csproj.AssemblyReference.cache
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.csproj.SuggestedBindingRedirects.cache
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\obj\Debug\Araba_alım_satım.Form1.resources
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\obj\Debug\Araba_alım_satım.Properties.Resources.resources
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.csproj.GenerateResource.cache
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.csproj.CoreCompileInputs.cache
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.exe
+C:\Users\AG1-LAB-PC1\Desktop\Araba alım-satım\Araba alım-satım\obj\Debug\Araba alım-satım.pdb

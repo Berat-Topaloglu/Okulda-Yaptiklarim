@@ -1,0 +1,16 @@
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\bin\Debug\EntityFramework.dll
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\bin\Debug\EntityFramework.xml
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\obj\Debug\deneme.csproj.CopyComplete
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\AG1-LAB-PC1\Desktop\deneme\deneme\deneme\obj\Debug\deneme.pdb

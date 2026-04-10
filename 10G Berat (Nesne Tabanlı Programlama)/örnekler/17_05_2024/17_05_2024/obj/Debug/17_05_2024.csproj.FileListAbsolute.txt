@@ -1,0 +1,16 @@
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\bin\Debug\17_05_2024.exe.config
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\bin\Debug\17_05_2024.exe
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\bin\Debug\17_05_2024.pdb
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\bin\Debug\EntityFramework.dll
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\bin\Debug\EntityFramework.xml
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\obj\Debug\17_05_2024.csproj.AssemblyReference.cache
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\obj\Debug\17_05_2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\obj\Debug\_17_05_2024.Form1.resources
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\obj\Debug\_17_05_2024.Properties.Resources.resources
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\obj\Debug\17_05_2024.csproj.GenerateResource.cache
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\obj\Debug\17_05_2024.csproj.CoreCompileInputs.cache
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\obj\Debug\17_05_2024.csproj.CopyComplete
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\obj\Debug\17_05_2024.exe
+C:\Users\AG1-LAB-PC1\Desktop\SQL3\17_05_2024\17_05_2024\obj\Debug\17_05_2024.pdb

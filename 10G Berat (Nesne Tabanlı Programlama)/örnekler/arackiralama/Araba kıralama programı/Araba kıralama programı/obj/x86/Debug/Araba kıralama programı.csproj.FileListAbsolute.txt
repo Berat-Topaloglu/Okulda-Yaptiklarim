@@ -1,0 +1,19 @@
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\bin\Debug\Araba kıralama programı.exe
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\bin\Debug\Araba kıralama programı.pdb
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Form1.resources
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Properties.Resources.resources
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csproj.GenerateResource.Cache
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.exe
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.pdb
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csprojResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.exe
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.pdb
+C:\Users\Prog6-2\Downloads\arackiralama\Araba kıralama programı\Araba kıralama programı\bin\Debug\Araba kıralama programı.exe
+C:\Users\Prog6-2\Downloads\arackiralama\Araba kıralama programı\Araba kıralama programı\bin\Debug\Araba kıralama programı.pdb
+C:\Users\Prog6-2\Downloads\arackiralama\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csprojResolveAssemblyReference.cache
+C:\Users\Prog6-2\Downloads\arackiralama\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Form1.resources
+C:\Users\Prog6-2\Downloads\arackiralama\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Properties.Resources.resources
+C:\Users\Prog6-2\Downloads\arackiralama\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csproj.GenerateResource.cache
+C:\Users\Prog6-2\Downloads\arackiralama\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csproj.CoreCompileInputs.cache
+C:\Users\Prog6-2\Downloads\arackiralama\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.exe
+C:\Users\Prog6-2\Downloads\arackiralama\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.pdb
