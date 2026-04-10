@@ -1,0 +1,37 @@
+﻿@model Ornk.Models.Menü
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Menü</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Yemek_Turu)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Yemek_Turu)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Yemek_Adi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Yemek_Adi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Yemek_Ucreti)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Yemek_Ucreti)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Yemek_ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

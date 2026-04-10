@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\K0-04\\Desktop\\04.03.2025\\Ornk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73F4F2D8-434B-42B3-95E1-096092816766}|Ornk\\Ornk.csproj|c:\\users\\k0-04\\desktop\\04.03.2025\\ornk\\ornk\\views\\men\u00FC\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73F4F2D8-434B-42B3-95E1-096092816766}|Ornk\\Ornk.csproj|solutionrelative:ornk\\views\\men\u00FC\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F4F2D8-434B-42B3-95E1-096092816766}|Ornk\\Ornk.csproj|c:\\users\\k0-04\\desktop\\04.03.2025\\ornk\\ornk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73F4F2D8-434B-42B3-95E1-096092816766}|Ornk\\Ornk.csproj|solutionrelative:ornk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\K0-04\\Desktop\\04.03.2025\\Ornk\\Ornk\\Views\\Men\u00FC\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Ornk\\Views\\Men\u00FC\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\K0-04\\Desktop\\04.03.2025\\Ornk\\Ornk\\Views\\Men\u00FC\\Index2.cshtml",
+              "RelativeToolTip": "Ornk\\Views\\Men\u00FC\\Index2.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwCkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:15:08.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\K0-04\\Desktop\\04.03.2025\\Ornk\\Ornk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ornk\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\K0-04\\Desktop\\04.03.2025\\Ornk\\Ornk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ornk\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T07:35:05.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

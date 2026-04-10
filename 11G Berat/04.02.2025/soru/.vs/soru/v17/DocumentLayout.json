@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\K0-04\\Desktop\\04.02.2025\\soru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299C0E97-5D62-4935-9ACD-DB9960FD9083}|soru\\soru.csproj|c:\\users\\k0-04\\desktop\\04.02.2025\\soru\\soru\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299C0E97-5D62-4935-9ACD-DB9960FD9083}|soru\\soru.csproj|solutionrelative:soru\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\K0-04\\Desktop\\04.02.2025\\soru\\soru\\index.html",
+              "RelativeDocumentMoniker": "soru\\index.html",
+              "ToolTip": "C:\\Users\\K0-04\\Desktop\\04.02.2025\\soru\\soru\\index.html",
+              "RelativeToolTip": "soru\\index.html",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHMAAADUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-04T06:13:06.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

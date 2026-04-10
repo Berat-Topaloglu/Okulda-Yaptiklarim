@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Quiz</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Quiz.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand text-warning fs-2" asp-area="" asp-controller="Okuls" asp-action="Index2">AMP 11G</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex">
+                    <ul class="navbar-nav flex-grow-1 justify-content-end">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Okuls" asp-action="Create">Ekle</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Okuls" asp-action="Index">Listele</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="#">Arama</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="#">İletişim</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="card text-light">
+        <img src="~/img/bg-masthead.jpg" class="card-img" alt="...">
+        <div class="card-img-overlay" style="margin-top:25%;">
+            <div class="m-auto w-50 pt-5">
+                <h1 style="text-align:center;">Your Favorite Place for</h1>
+                <h1 style="padding-left:385px;">Themes</h1>
+            </div>
+            <hr style="width:5%; height:3px; color:darkorange" class="m-auto" />
+            <div class="text-center w-50 m-auto mb-3 pt-2">
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+            </div>
+            <button type="button" class="btn btn-warning text-light" style="margin-left:45%;">Find Out More</button>
+        </div>
+    </div>
+    <div style="height:350px; background-color:orangered;" class="text-light">
+        <div class="m-auto w-50" style="padding-top:6%;">
+            <h1 style="text-align:center;">We've got you need!</h1>
+        </div>
+        <hr style="width:5%; height:3px; color:darkorange" class="m-auto" />
+        <div class="text-center w-50 m-auto mb-3 pt-2">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+        </div>
+        <button type="button" class="btn btn-warning text-light" style="margin-left:45%;">Get Started</button>
+    </div>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <div class="m-auto w-50">
+        <h1 style="text-align:center;">Let's get in Tourch!</h1>
+    </div>
+    <hr style="width:5%; height:3px; color:darkorange" class="m-auto mb-4" />
+    <div class="text-center w-50 m-auto mb-3 pt-2">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+    </div>
+    <form style="width: 26rem;" class="m-auto">
+        <!-- Name input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+            <input type="text" id="form4Example1" class="form-control" />
+            <label class="form-label" for="form4Example1">Full Name</label>
+        </div>
+
+        <!-- Email input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+            <input type="email" id="form4Example2" class="form-control" />
+            <label class="form-label" for="form4Example2">Email address</label>
+        </div>
+
+        <div data-mdb-input-init class="form-outline mb-4">
+            <input type="number" id="form6Example6" class="form-control" />
+            <label class="form-label" for="form6Example6">Phone Number</label>
+        </div>
+
+        <!-- Message input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+            <textarea class="form-control" id="form4Example3" rows="4"></textarea>
+            <label class="form-label" for="form4Example3">Message</label>
+        </div>
+
+        <!-- Submit button -->
+        <button data-mdb-ripple-init type="button" class="btn btn-warning btn-block mb-4" style="margin-left:45%;">Send</button>
+        <div class="text-center">
+            <i class="bi bi-phone"></i><br />
+            +123 4567 8910
+        </div>
+    </form>
+    <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+        © 2025 Made By Berat Topaloğlu
+        <a class="text-reset fw-bold" href="https://teknolojiidoktoru.wordpress.com/">Teknoloji Doktoru.com</a>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
