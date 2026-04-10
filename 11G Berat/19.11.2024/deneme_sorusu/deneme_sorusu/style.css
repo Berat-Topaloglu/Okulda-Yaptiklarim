@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url('img/body-bg.png');
+    background-repeat:repeat-x;
+    background-color:#C1DEEE;
+  
+}
+p{
+    text-align:justify;
+    font-size:12px;
+    font-family:Arial;
+}
+h1 {
+    font-family:'Trebuchet MS';
+    font-size:24px;   
+    text-align:center;
+}
+h2{
+    color:#328bbd;
+    font-family:Arial,sans-serif;
+    font-size:18px;
+}
+a{
+    color:#328bbd;
+    text-decoration:none;
+}
+.tablo{
+    display:block;
+    padding:15px;
+    margin:auto;
+    background-color:white;
+    width:600px;
+}
+img{
+    border-bottom:10px solid blue;
+}

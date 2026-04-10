@@ -1,0 +1,27 @@
+﻿body {
+    background-color: lightblue;
+    background-image: url('indir.jpg');
+    background-repeat: repeat-y;
+    background-position: left;
+    background-attachment:fixed;
+}
+a{
+    color:red;
+    text-decoration:none;
+}
+a:hover
+{
+    color:purple;
+    background-color:grey;
+    opacity:0.50;
+}
+a:link
+{
+    color:black;
+    background-color:lightblue;
+}
+a:visited
+{
+    color:grey;
+    background-color:pink;
+}

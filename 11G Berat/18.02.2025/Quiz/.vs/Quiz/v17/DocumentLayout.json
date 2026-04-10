@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\K0-04\\Desktop\\18.02.2025\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7C3D20-5341-4E11-A806-BBCC52037E91}|Quiz\\Quiz.csproj|c:\\users\\k0-04\\desktop\\18.02.2025\\quiz\\quiz\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B7C3D20-5341-4E11-A806-BBCC52037E91}|Quiz\\Quiz.csproj|solutionrelative:quiz\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7C3D20-5341-4E11-A806-BBCC52037E91}|Quiz\\Quiz.csproj|c:\\users\\k0-04\\desktop\\18.02.2025\\quiz\\quiz\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B7C3D20-5341-4E11-A806-BBCC52037E91}|Quiz\\Quiz.csproj|solutionrelative:quiz\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index2.html",
+              "DocumentMoniker": "C:\\Users\\K0-04\\Desktop\\18.02.2025\\Quiz\\Quiz\\index2.html",
+              "RelativeDocumentMoniker": "Quiz\\index2.html",
+              "ToolTip": "C:\\Users\\K0-04\\Desktop\\18.02.2025\\Quiz\\Quiz\\index2.html",
+              "RelativeToolTip": "Quiz\\index2.html",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-18T09:19:22.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\K0-04\\Desktop\\18.02.2025\\Quiz\\Quiz\\index.html",
+              "RelativeDocumentMoniker": "Quiz\\index.html",
+              "ToolTip": "C:\\Users\\K0-04\\Desktop\\18.02.2025\\Quiz\\Quiz\\index.html",
+              "RelativeToolTip": "Quiz\\index.html",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAOAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-18T07:38:17.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
