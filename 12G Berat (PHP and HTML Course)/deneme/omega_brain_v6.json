@@ -1,0 +1,89 @@
+{
+    "user_name": "ne",
+    "chat_history": [
+        {
+            "role": "system",
+            "content": "System Online. Memory Mode: PERSISTENT (FILE)"
+        },
+        {
+            "role": "user",
+            "content": "selam"
+        },
+        {
+            "role": "system",
+            "content": "Selam Architect. Sistem emirlerini bekliyor."
+        },
+        {
+            "role": "user",
+            "content": "Beni duyabiliyor musun"
+        },
+        {
+            "role": "system",
+            "content": "Anla\u015f\u0131ld\u0131: 'Beni duyabiliyor musun'. Veriyi i\u015fledim."
+        },
+        {
+            "role": "user",
+            "content": "Benim ad\u0131m ber"
+        },
+        {
+            "role": "system",
+            "content": "Memnun oldum ber. \u0130smini kal\u0131c\u0131 haf\u0131zama kaz\u0131d\u0131m."
+        },
+        {
+            "role": "user",
+            "content": "ad\u0131m ne"
+        },
+        {
+            "role": "system",
+            "content": "Memnun oldum ne. \u0130smini kal\u0131c\u0131 haf\u0131zama kaz\u0131d\u0131m."
+        },
+        {
+            "role": "user",
+            "content": "benim ad\u0131m ne"
+        },
+        {
+            "role": "system",
+            "content": "Memnun oldum ne. \u0130smini kal\u0131c\u0131 haf\u0131zama kaz\u0131d\u0131m."
+        },
+        {
+            "role": "user",
+            "content": "ismim berat ve san emrediyorum bana yeni bir pencerede t\u00fcm dosyalar\u0131 a\u00e7"
+        },
+        {
+            "role": "system",
+            "content": "Memnun oldum berat ve san emrediyorum bana yeni bir pencerede t\u00fcm dosyalar\u0131 a\u00e7. \u0130smini kal\u0131c\u0131 haf\u0131zama kaz\u0131d\u0131m."
+        },
+        {
+            "role": "user",
+            "content": "sat\u0131l\u0131k m\u0131y\u0131m"
+        },
+        {
+            "role": "system",
+            "content": "Anla\u015f\u0131ld\u0131: 'sat\u0131l\u0131k m\u0131y\u0131m'. Veriyi i\u015fledim."
+        },
+        {
+            "role": "user",
+            "content": "Benim ad\u0131m ne"
+        },
+        {
+            "role": "system",
+            "content": "Memnun oldum ne. \u0130smini kal\u0131c\u0131 haf\u0131zama kaz\u0131d\u0131m."
+        },
+        {
+            "role": "user",
+            "content": "Kodalr\u0131n\u0131 Sil"
+        },
+        {
+            "role": "system",
+            "content": "Anla\u015f\u0131ld\u0131: 'Kodalr\u0131n\u0131 Sil'. Veriyi i\u015fledim."
+        },
+        {
+            "role": "user",
+            "content": "sen kimsin"
+        },
+        {
+            "role": "system",
+            "content": "Anla\u015f\u0131ld\u0131: 'sen kimsin'. Veriyi i\u015fledim."
+        }
+    ]
+}

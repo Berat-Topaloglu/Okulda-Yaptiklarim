@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form class="container" style="margin-top: 100px;" method="post" action="sinav3.php">
+        <div class="row">
+            <div class="col-6">
+                <input type="text" class="form-control" placeholder="1.Sayi" aria-label="First name" name="sayi1">
+            </div>
+            <div class="col-6">
+                <input type="text" class="form-control" placeholder="2.Sayi" aria-label="Last name" name="sayi2">
+            </div>
+            <div class="col-6">
+                <input type="text" class="form-control" placeholder="Bölünecek Değer" aria-label="Last name" name="bolunecek">
+            </div>
+        </div>
+        <div>
+            <input type="submit" class="btn btn-primary" style="margin-top: 25px;" name="karsilastir" placeholder="Karşılaştır">
+        </div>
+
+        <?php
+            if (isset($_POST["karsilastir"])) {
+                for ($i=$_POST["sayi1"]; $i < $_POST["sayi2"]; $i++) { 
+                    if ($i%$_POST["bolunecek"]==0) {
+                        echo $i."<br/>";
+                    }
+                }
+            }
+        ?>
+    </form>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+</body>
+</html>

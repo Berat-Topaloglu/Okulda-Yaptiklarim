@@ -1,0 +1,29 @@
+{
+    "installed": true,
+    "password_hash": "$2y$10$2TMhaQhAExYJOgHEPmqNyuqZPWvncO.ayxd88ERoK9iQQJUPAm9ky",
+    "theme": "cyberpunk",
+    "boot_log": [
+        "[SYS] Kernel Initialized...",
+        "[SYS] Neural Link Established."
+    ],
+    "file_system": {
+        "root": {
+            "home": {
+                "admin": {
+                    "welcome.txt": "Omega v4.0'a ho\u015f geldiniz.\nBu sistem kal\u0131c\u0131 haf\u0131zaya sahiptir.",
+                    "secrets.enc": "TOP SECRET DATA STREAM",
+                    "projects": {
+                        "ai_plan.txt": "1. Analyze Users\\n2. Optimize World"
+                    }
+                }
+            },
+            "var": {
+                "log": {
+                    "sys.log": "System healthy."
+                }
+            },
+            "bin": [],
+            "untitled.txt": ""
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "user_name": "Architect",
+    "system_name": "OMEGA ZENITH",
+    "theme": "cyan",
+    "chat_history": [
+        {
+            "role": "system",
+            "content": "System initialized. Ready for input.",
+            "timestamp": 1765440916
+        }
+    ],
+    "notes": []
+}
