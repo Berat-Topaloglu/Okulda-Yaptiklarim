@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musak\\Desktop\\09.07.2025\\Oda Temizlik ve Kontrol Takip Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{532B80A0-04E5-4462-AD5E-04770512C3BF}|Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi.csproj|c:\\users\\musak\\desktop\\09.07.2025\\oda temizlik ve kontrol takip sistemi\\oda temizlik ve kontrol takip sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532B80A0-04E5-4462-AD5E-04770512C3BF}|Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi.csproj|solutionrelative:oda temizlik ve kontrol takip sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532B80A0-04E5-4462-AD5E-04770512C3BF}|Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi.csproj|c:\\users\\musak\\desktop\\09.07.2025\\oda temizlik ve kontrol takip sistemi\\oda temizlik ve kontrol takip sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{532B80A0-04E5-4462-AD5E-04770512C3BF}|Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi.csproj|solutionrelative:oda temizlik ve kontrol takip sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532B80A0-04E5-4462-AD5E-04770512C3BF}|Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi.csproj|c:\\users\\musak\\desktop\\09.07.2025\\oda temizlik ve kontrol takip sistemi\\oda temizlik ve kontrol takip sistemi\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532B80A0-04E5-4462-AD5E-04770512C3BF}|Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi.csproj|solutionrelative:oda temizlik ve kontrol takip sistemi\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\musak\\Desktop\\09.07.2025\\Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi\\Context\\MyContext.cs",
+              "RelativeDocumentMoniker": "Oda Temizlik ve Kontrol Takip Sistemi\\Context\\MyContext.cs",
+              "ToolTip": "C:\\Users\\musak\\Desktop\\09.07.2025\\Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi\\Context\\MyContext.cs",
+              "RelativeToolTip": "Oda Temizlik ve Kontrol Takip Sistemi\\Context\\MyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:52:40.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\musak\\Desktop\\09.07.2025\\Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Oda Temizlik ve Kontrol Takip Sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\musak\\Desktop\\09.07.2025\\Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi\\Form1.cs",
+              "RelativeToolTip": "Oda Temizlik ve Kontrol Takip Sistemi\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwCwAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:31:45.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\musak\\Desktop\\09.07.2025\\Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Oda Temizlik ve Kontrol Takip Sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\musak\\Desktop\\09.07.2025\\Oda Temizlik ve Kontrol Takip Sistemi\\Oda Temizlik ve Kontrol Takip Sistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Oda Temizlik ve Kontrol Takip Sistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:02:29.436Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

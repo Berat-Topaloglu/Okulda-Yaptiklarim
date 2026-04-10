@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452519324442",
+    "project_id": "oda-takip-ve-kontrol-sistemi",
+    "storage_bucket": "oda-takip-ve-kontrol-sistemi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452519324442:android:61ac078025b4e422321aa3",
+        "android_client_info": {
+          "package_name": "com.example.oda_kontrol_ve_takip_sistemi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXwoLsMSHF2Wt900SEUib5-vqXoAqOd2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

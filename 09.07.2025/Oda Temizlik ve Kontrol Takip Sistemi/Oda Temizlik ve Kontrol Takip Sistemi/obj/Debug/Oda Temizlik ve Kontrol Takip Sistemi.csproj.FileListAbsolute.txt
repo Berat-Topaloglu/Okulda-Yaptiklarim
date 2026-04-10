@@ -1,0 +1,16 @@
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\bin\Debug\Oda Temizlik ve Kontrol Takip Sistemi.exe.config
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\bin\Debug\Oda Temizlik ve Kontrol Takip Sistemi.exe
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\bin\Debug\Oda Temizlik ve Kontrol Takip Sistemi.pdb
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\bin\Debug\EntityFramework.dll
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\bin\Debug\EntityFramework.xml
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\obj\Debug\Oda Temizlik ve Kontrol Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\obj\Debug\Oda_Temizlik_ve_Kontrol_Takip_Sistemi.Form1.resources
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\obj\Debug\Oda_Temizlik_ve_Kontrol_Takip_Sistemi.Properties.Resources.resources
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\obj\Debug\Oda Temizlik ve Kontrol Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\obj\Debug\Oda Temizlik ve Kontrol Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\obj\Debug\Oda Temi.EB4DA246.Up2Date
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\obj\Debug\Oda Temizlik ve Kontrol Takip Sistemi.exe
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\obj\Debug\Oda Temizlik ve Kontrol Takip Sistemi.pdb
+C:\Users\musak\Desktop\09.07.2025\Oda Temizlik ve Kontrol Takip Sistemi\Oda Temizlik ve Kontrol Takip Sistemi\obj\Debug\Oda Temizlik ve Kontrol Takip Sistemi.exe.config

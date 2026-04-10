@@ -1,0 +1,17 @@
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\bin\Debug\Kullanici_Kayit.exe.config
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\bin\Debug\Kullanici_Kayit.exe
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\bin\Debug\Kullanici_Kayit.pdb
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\bin\Debug\EntityFramework.dll
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\bin\Debug\EntityFramework.xml
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanici_Kayit.csproj.AssemblyReference.cache
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanici_Kayit.Form1.resources
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanici_Kayit.Properties.Resources.resources
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanici_Kayit.csproj.GenerateResource.cache
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanici_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanic.CA8EE3DE.Up2Date
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanici_Kayit.exe
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanici_Kayit.pdb
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanici_Kayit.exe.config
+C:\Users\musak\Desktop\1\Kullanici_Kayit\Kullanici_Kayit\obj\Debug\Kullanici_Kayit.Form2.resources
