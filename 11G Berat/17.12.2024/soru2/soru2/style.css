@@ -1,0 +1,94 @@
+﻿body {
+    background-image: url('img/page.png');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.temizle {
+    clear: both;
+}
+
+.container {
+    width: 80%;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+    background-color: lightslategray;
+}
+
+.cizgi {
+    width: 100%;
+    background-color: deepskyblue;
+    height: 2px;
+}
+
+.menu {
+    height: 40px;
+    width: 100%;
+    background-color: darkgrey;
+    padding: 1%;
+}
+
+    .menu a {
+        display: block;
+        text-decoration: none;
+        color: black;
+    }
+
+        .menu a:hover {
+            background-color: deepskyblue;
+        }
+
+ul {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    padding: 3px 10px;
+}
+
+.ortyazı {
+    background-image: url('img/object0.png');
+    width: 80%;
+    margin: auto;
+    height: 350px;
+}
+
+.kutu {
+    width: 20%;
+    height: auto;
+    margin: 2%;
+    float: left;
+    color: white;
+}
+
+    .kutu a {
+        background-color: deepskyblue;
+        color: white;
+        text-decoration: none;
+        padding: 2%;
+    }
+
+.footer {
+    width: 100%;
+    background-color: dimgray;
+    opacity: 0.5;
+    text-align: center;
+    height: 80px;
+    padding: 1%;
+}
+
+.orta {
+    background-image: url('img/header.png');
+    width: 100%;
+    height: 350px;
+    background-repeat: repeat-y;
+    background-color: #3e4148;
+    background-size: cover;
+}

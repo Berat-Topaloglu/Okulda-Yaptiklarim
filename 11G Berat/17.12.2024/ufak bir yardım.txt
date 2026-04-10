@@ -1,0 +1,164 @@
+css
+body {
+    background-image: url('img/page.png');
+
+}
+* {
+    box-sizing: border-box;
+}
+.temizle {
+    clear: both;
+}
+.kapsayici {
+    width: 80%;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+    background-color: lightslategray;
+}
+.cizgi{
+    width:100%;
+    background-color:deepskyblue;
+    height:2px;
+}
+.menu {
+    height: 40px;
+    width: 100%;
+    background-color:darkgrey;
+    padding:1%;
+}
+    .menu a {
+        display: block;
+        text-decoration: none;
+        color: black;
+    }
+        .menu a:hover {
+            background-color: deepskyblue;
+           
+        }
+
+    ul {
+        padding: 0px;
+        margin: 0px;
+        list-style-type: none;
+        overflow: hidden;
+    }
+
+    li {
+        float: left;
+        padding: 3px 10px;
+    }
+
+.ortyazı {
+    background-image: url('img/object0.png');
+    width:80%;
+    margin:auto;
+    height:350px;
+}
+.kutu {
+    width: 20%;
+    height: auto;
+    margin: 2%;
+    float: left;
+    color:white;
+
+}
+.kutu a{
+    background-color:deepskyblue;
+    color:white;
+    text-decoration:none;
+    padding:2%;
+}
+.footer{
+    width:100%;
+    background-color:dimgray;
+    opacity:0.5;
+    text-align:center;
+    height:80px;
+    padding:1%;
+}
+.orta {
+    background-image: url('img/header.png');
+    width: 100%;
+    height: 350px;
+    background-repeat: repeat-y;
+    background-color:#3e4148;
+    background-size: cover;
+}
+html
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="fontawesome-free-6.7.2-web/css/fontawesome.min.css" rel="stylesheet" />
+    <link href="fontawesome-free-6.7.2-web/css/all.css" rel="stylesheet" />
+    <link href="stil.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div class="kapsayici">
+        <div style="float:left;">
+            <img src="img/object966597160.png" style="margin-left:1%;" />
+        </div>
+        <div style="color:deepskyblue; padding:2%;">Biz Group</div>
+        <div class="cizgi"></div>
+        <div class="menu">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Contacts</a></li>
+            </ul>
+         </div>
+        <div class="orta">
+            <div class="ortyazı">
+                <div style="padding:1%;">
+                    <h2>Perfect Solutions</h2>
+                    <font color="deepskyblue"><h3>Form True Profesionals</h3></font>
+                </div>
+            </div>
+        </div>
+        <div class="kutu">
+            <div style="height:25px; color:deepskyblue;width:100%;margin-left:2%;">
+                Planing
+            </div>
+            <img src="img/001.jpg" />
+            <p>Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz.</p>
+            <a href="#">Learn More</a>
+        </div>
+        <div class="kutu">
+            <div style="height:25px; color:deepskyblue;width:100%;margin-left:2%;">
+                Development
+            </div>
+            <img src="img/003.jpg" />
+            <p>Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz.</p>
+            <a href="#">Learn More</a>
+        </div>
+        <div class="kutu">
+            <div style="height:25px; color:deepskyblue;width:100%;margin-left:2%;">
+                Solutions
+            </div>
+            <img src="img/004.jpg" />
+            <p>Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz.</p>
+            <a href="#">Learn More</a>
+        </div>
+        <div class="kutu">
+            <div style="height:25px; color:deepskyblue;width:100%;margin-left:2%;">
+                Projects
+            </div>
+            <img src="img/005.jpg" />
+            <p>Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz.</p>
+            <a href="#">Learn More</a>
+        </div>
+        <div style="color:white;">
+            <div style=" color:deepskyblue;">
+                <h1>Winning ideas For You Busines Growth</h1>
+            </div>
+            <p>Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz.</p>
+            <p>Video, size görüşünüzü Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme videoya ait ekleme kodunu yapıştırabilirsiniz.</p>
+        </div>
+        <div class="footer">
+            <p>Video, eklemek istediğiniz videoya ait<font color="deepskyblue"> ekleme kodunu yapıştırabilirsiniz.</font></p>
+            <p>Video, eklemek istediğiniz videoya.</p>
+        </div>
+    </div>
+</body>
+</html>

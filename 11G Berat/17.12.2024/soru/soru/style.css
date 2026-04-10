@@ -1,0 +1,114 @@
+﻿﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(img/bg.jpg);
+    background-repeat: repeat-x;
+    background-color: #c4a473;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+    height: auto;
+    overflow: hidden;
+}
+
+.banner {
+    width: 100%;
+    height: 300px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+    ul li {
+        float: left;
+    }
+
+        ul li a {
+            padding: 12px 14px;
+            text-decoration: none;
+            color: sandybrown;
+        }
+
+            ul li a:hover {
+                background-color: saddlebrown;
+            }
+
+.menu {
+    vertical-align: middle;
+    line-height: 30px;
+    background-image: url(img/bgc.jpg);
+    width: 100%;
+    height: 30px;
+    overflow: hidden;
+    padding-left: 35px;
+}
+
+.yazi {
+    background-color: white;
+    width: 60%;
+    color: black;
+    font-size: 20px;
+    float: left;
+}
+.yazi2{
+    width:100%;
+    background-color:saddlebrown;
+    color:white;
+    height:45px;
+    text-align:center;
+    line-height:45px;
+    float:left;
+}
+
+.resim {
+    width: 40%;
+    height: 200px;
+    float: left;
+}
+.resim2{
+    width:100%;
+    height:215px;
+    float:left;
+    overflow:hidden;
+}
+.kutu{
+    border:5px solid saddlebrown;
+    margin-top:2%;  
+    width:21%;
+    height:260px;
+    float:left;
+    margin-left:2%;
+}
+
+.icerik {
+    padding: 10px;
+    background-color: white;
+    width: 100%;
+    height: 500px;
+    overflow:hidden;
+}
+.footer{
+    width:100%;
+    height:30px;
+    background-image:url(img/bgc.jpg);
+    background-repeat:repeat-x;
+    text-align:center;
+    color:white;
+    font-size:25px;
+    padding-top:2px;
+    box-sizing:border-box;
+    text-indent:5px;
+    overflow:hidden;
+}
+
+.temizle {
+    clear: both;
+}

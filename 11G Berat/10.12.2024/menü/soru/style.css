@@ -1,0 +1,28 @@
+﻿*{
+    box-sizing:border-box;
+}
+ul{
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+}
+ul li{
+    float:left;
+}
+ul li a{
+    display:block;
+    padding:12px 14px;
+    text-decoration:none;
+    background-color:orchid;
+    color:white;
+}
+ul li a:hover{
+    background-color:blueviolet;
+}
+.menu{
+    float:right;
+    width:auto;
+    overflow:hidden;
+    border:2px solid blue;
+}

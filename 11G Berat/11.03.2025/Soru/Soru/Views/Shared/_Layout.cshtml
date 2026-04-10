@@ -1,0 +1,201 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Soru</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Soru.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-black border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand h2 text-light" asp-area="" asp-controller="Kahves" asp-action="Index2">GrandCoffee</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex">
+                    <ul class="navbar-nav flex-grow-1 justify-content-end">
+                        <li class="nav-item">
+                            <a class="nav-link text-warning active" asp-area="" asp-controller="Kahves" asp-action="Index2">Ana Sayfa</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Kahves" asp-action="Create">Ekleme</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Kahves" asp-action="Index">Listele</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="#">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <i class="bi bi-search text-light fw-bolder nav-link"></i>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="card text-light">
+        <img src="~/images/banner-bg.png" class="card-img" alt="...">
+        <div class="card-img-overlay" style="margin-left:15%; margin-top:10%;">
+            <div class="w-50">
+                <h1 class="text-black">Outstanding</h1>
+                <h1 class="text-light fw-bolder">Coffee Shop</h1>
+            </div>
+            <div class="w-50 mb-3">
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+            </div>
+            <button type="button" class="btn bg-black text-light text-center w-auto" style="height:45px;">Learn More</button>
+        </div>
+    </div>
+    <div class="mb-3 m-auto mt-4" style="max-width:800px;">
+        <div class="row g-0">
+            <div class="col-md-7 m-auto">
+                <div class="w-75">
+                    <h1 style="color:#FF9D02;">About Us</h1>
+                </div>
+                <div class="w-75 mb-3">
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                </div>
+                <button type="button" class="btn bg-black text-light text-center w-25" style="height:45px;">Read More</button>
+            </div>
+            <div class="col-md-5">
+                <img src="~/images/about-img.png" alt="..." style="width:135%; height:450px;">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <div class="m-auto w-50 p-4">
+        <h1 style="text-align:center; color:#FF9D02;">Contact Us</h1>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 col-12">
+                <div class="card text-light">
+                    <img src="~/images/img-9.png" class="card-img" alt="...">
+                    <div class="card-img-overlay">
+                        <form style="margin-top:25px;">
+                            <div class="mb-2 w-75 m-auto mt-1">
+                                <!--<label for="exampleInputPassword1" class="form-label">Password</label>-->
+                                <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Name">
+                            </div>
+                            <div class="mb-2 w-75 m-auto">
+                                <!--<label for="exampleInputEmail1" class="form-label">Email address</label>-->
+                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-Mail">
+                            </div>
+                            <div class="mb-2 w-75 m-auto">
+                                <!--<label for="exampleInputPassword1" class="form-label">Password</label>-->
+                                <input type="number" class="form-control" id="exampleInputPassword1" placeholder="Number">
+                            </div>
+                            <div class="mb-2 w-75 m-auto">
+                                <!--<label for="exampleInputPassword1" class="form-label">Password</label>-->
+                                <textarea class="form-control" id="form4Example3" placeholder="Message"></textarea>
+                            </div>
+                            <button type="submit" class="btn" style="background-color:#FF9D02; margin-left:45%;">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-12">
+                <img src="~/images/harita.jpg" class="w-100 h-100" alt="...">
+            </div>
+        </div>
+    </div>
+    <footer class="text-center text-lg-start bg-black text-muted">
+        <section>
+            <div class="container text-center text-md-start mt-5 pt-4">
+                <!-- Grid row -->
+                <div class="row mt-3">
+                    <!-- Grid column -->
+                    <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+                        <!-- Content -->
+                        <h6 class="text-light fw-bold mb-4">
+                            About
+                        </h6>
+                        <p class="text-light">
+                            Here you can use rows and columns to organize your footer content. Lorem ipsum
+                            dolor sit amet, consectetur adipisicing elit.
+                        </p>
+                    </div>
+                    <!-- Grid column -->
+                    <!-- Grid column -->
+                    <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <!-- Links -->
+                        <h6 class="text-light nav-link fw-bold mb-4">
+                            Menu
+                        </h6>
+                        <p>
+                            <a href="#" class="nav-link text-light">Ana Sayfa</a>
+                        </p>
+                        <p class="text-light">
+                            <a href="#" class="nav-link text-light">Ekleme</a>
+                        </p>
+                        <p class="text-light">
+                            <a href="#" class="nav-link text-light">Listeleme</a>
+                        </p>
+                        <p class="text-light">
+                            <a href="#" class="nav-link text-light">Contact Us</a>
+                        </p>
+                    </div>
+                    <!-- Grid column -->
+                    <!-- Grid column -->
+                    <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <!-- Links -->
+                        <h6 class="text-light nav-link fw-bold mb-4">
+                            Useful links
+                        </h6>
+                        <p>
+                            <a href="#" class="nav-link text-light">Pricing</a>
+                        </p>
+                        <p>
+                            <a href="#" class="nav-link text-light">Settings</a>
+                        </p>
+                        <p>
+                            <a href="#" class="nav-link text-light">Orders</a>
+                        </p>
+                        <p>
+                            <a href="#" class="nav-link text-light">Help</a>
+                        </p>
+                    </div>
+                    <!-- Grid column -->
+                    <!-- Grid column -->
+                    <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                        <!-- Links -->
+                        <h6 class="text-light fw-bold mb-4">Contact</h6>
+                        <p class="text-light"><i class="bi bi-geo-alt-fill"></i> New York, NY 10012, US</p>
+                        <p class="text-light"><i class="bi bi-telephone-fill"></i> + 01 234 567 89</p>
+                        <p class="text-light">
+                            <i class="bi bi-envelope"></i>
+                            E-Mail:ghostanonim@gmail.com
+                        </p>
+                    </div>
+                    <!-- Grid column -->
+                </div>
+                <!-- Grid row -->
+            </div>
+        </section>
+        <!-- Section: Links  -->
+    </footer>
+    <!-- Copyright -->
+    <div class="text-center p-4 bg-body text-light">
+        © 2025 Made By Berat Topaloğlu
+        <a class="text-light nav-link fw-bold" href="https://teknolojiidoktoru.wordpress.com/">Teknoloji Doktoru.com</a>
+    </div>
+    <!-- Copyright -->
+    <!-- Footer -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
