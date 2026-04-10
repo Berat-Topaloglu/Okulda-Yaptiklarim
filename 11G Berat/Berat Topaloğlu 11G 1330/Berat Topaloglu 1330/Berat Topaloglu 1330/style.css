@@ -1,0 +1,154 @@
+﻿*{
+    box-sizing:border-box;
+}
+.container{
+    width:100%;
+    height:auto;
+    margin:0px;
+    overflow:hidden;
+}
+.logo{
+    width:60%;
+    height:50px;
+    padding-left:35px;
+    color:white;
+    float:left;
+    line-height:50px;
+}
+.header{
+    background-color:black;
+    width:100%;
+    height:60px;
+    padding:5px;
+    overflow:auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+    ul li {
+        float: left;
+    }
+
+        ul li a {
+            padding: 15px 20px;
+            text-decoration: none;
+            color: white;
+        }
+
+            ul li a:hover {
+                color: orange;
+            }
+
+.menu {
+    padding-left:15px;
+    background-color:black;
+    vertical-align: middle;
+    line-height: 50px;
+    text-align: center;
+    width: 40%;
+    height: 50px;
+    overflow: hidden;
+    float: right;
+}
+.temizle{
+    clear:both;
+}
+.yazi{
+    text-align:left;
+    font-size:25px;
+    width:60%;
+    float:left;
+}
+.gorsel{
+    width:40%;
+    height:550px;
+    float:right;
+    text-align:right;
+}
+.ortablock{
+    background-image:url(img/bg_1.jpg);  
+    width:100%;
+    height:600px;
+    padding:35px 10px;
+}
+.bilgiler{
+    background-color:black;
+    width:100%;
+    height:70px;
+    overflow:hidden;
+    color:white;
+    float:left;
+    line-height:70px;
+}
+.logolar{
+    background-color:yellow;
+    width:30%;
+    height:70px;
+    padding-left:15px;
+    float:left;
+}
+.tanitim{
+    background-color:darkseagreen;
+    width:100%;
+    height:auto;
+    overflow:hidden;
+}
+.gorsel2{
+    width:40%;
+    height:200px;
+    float:left;
+}
+.yazi2{
+    width:60%;
+    font-size:12px;
+    height:250px;
+    overflow:hidden;
+    padding-left:15px;
+}
+.hizmetler{
+    background-image:url(img/food.png);
+    width:100%;
+    height:600px;
+    color:black;
+}
+.iletisim_bilgisi{
+    width:65%;
+    height:auto;
+    overflow:hidden;
+    float:left;
+    background-color:black;
+    display:flex;
+}
+.kutu{
+    text-align:center;
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.yemek_menuleri{
+    color:white;
+    background-color:black;
+    width:100%;
+    height:500px;
+}
+.footer {
+    padding-left:35px;
+    padding-top:50px;
+    padding-bottom:50px;
+    width: 100%;
+    background-color: black;
+    height: 600px;
+    display: flex;
+    color:white;
+}
+
+    .footer a {
+        color:white;
+        text-align: center;
+        padding: 10px;
+        width: 100%;
+    }

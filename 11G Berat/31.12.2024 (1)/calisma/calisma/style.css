@@ -1,0 +1,24 @@
+﻿*{
+    box-sizing:border-box;
+}
+.kutu{
+    width:23%;
+    height:auto;
+    overflow:hidden;
+    float:left;
+    margin:1%;
+    border:2px solid gray;
+}
+.kutu:hover{
+    border:2px solid black;
+}
+@media screen and (max-width:700px){
+    .kutu{
+        width:48%;
+    }
+}
+@media screen and (max-width:400px) {
+    .kutu {
+        width: 100%;
+    }
+}
