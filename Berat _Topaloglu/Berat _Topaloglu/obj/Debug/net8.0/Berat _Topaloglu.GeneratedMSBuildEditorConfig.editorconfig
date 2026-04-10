@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Berat__Topaloglu
+build_property.RootNamespace = Berat__Topaloglu
+build_property.ProjectDir = C:\Users\Prog5\Desktop\Berat _Topaloglu\Berat _Topaloglu\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Prog5\Desktop\Berat _Topaloglu\Berat _Topaloglu
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Ana_Sayfa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxBbmFfU2F5ZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Hakkimda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxIYWtraW1kYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Hayallerim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxIYXlhbGxlcmltLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Kariyer_Okul.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxLYXJpeWVyX09rdWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Kariyer_Prensip.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxLYXJpeWVyX1ByZW5zaXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Kariyer_Sirketler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxLYXJpeWVyX1NpcmtldGxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Kıyamet_Senaryosu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxLxLF5YW1ldF9TZW5hcnlvc3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Neden_Yalnizim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxOZWRlbl9ZYWxuaXppbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Neden_Yazilim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxOZWRlbl9ZYXppbGltLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/My_Site/Uzayın_Gizemi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfU2l0ZVxVemF5xLFuX0dpemVtaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prog5/Desktop/Berat _Topaloglu/Berat _Topaloglu/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6awi6ojw2x
