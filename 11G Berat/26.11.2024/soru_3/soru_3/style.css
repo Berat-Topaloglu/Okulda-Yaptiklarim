@@ -1,0 +1,42 @@
+﻿.kapsayici {
+    margin: auto;
+    width:100%;
+    height:auto;
+    border:2px solid aqua;
+    overflow: auto;
+}
+.baslik{
+    width:100%;
+    height:65px;
+    background-color:midnightblue;
+}
+.ana_menu{
+    width:100%;
+    height:15px;
+    background-color:cornflowerblue;
+}
+.yan{
+    width:25%;
+    height:450px;
+    float:left;
+    background-color:forestgreen;
+}
+.yan_orta {
+    width:50%;
+    height:450px;
+    float:left;
+    background-color:mediumpurple;
+}
+.en_alt{
+    width:100%;
+    height:35px;
+}
+.kare{
+    width:80%;
+    height:145px;
+    margin:2%;
+    background-color:yellow;
+}
+.temizle{
+    clear:both;
+}

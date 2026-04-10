@@ -1,0 +1,33 @@
+﻿.ust{
+    width:100%;
+    height:65px;
+    background-color:orangered;
+}
+.alt{
+    width:100%;
+    height:35px;
+    background-color:darkred;
+}
+.sag{
+    width:100%;
+    height:300px;
+    background-color:dodgerblue;
+}
+.sol{
+    width:25%;
+    height:300px;
+    background-color:aqua;
+    float:left;
+}
+.menu{
+    background-color:darkgreen;
+    width:100%;
+    height:35px;
+}
+.kapsayici {
+    margin: auto;
+    width: 80%;
+    height: auto;
+    border: 2px solid pink;
+    overflow: auto;
+}

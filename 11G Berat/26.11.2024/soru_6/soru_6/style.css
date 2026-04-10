@@ -1,0 +1,24 @@
+﻿.kapsayici {
+    margin: auto;
+    width: 80%;
+    height: auto;
+    overflow: auto;
+}
+.galeri{
+    width:20%;
+    height:auto;
+    overflow:auto;
+    margin:2%;
+    border:1px solid black;
+    float:left;
+}
+img{
+    width:100%;
+    height:auto;
+}
+.yazi
+{
+    width:100%;
+    height:auto;
+    text-align:center;
+}

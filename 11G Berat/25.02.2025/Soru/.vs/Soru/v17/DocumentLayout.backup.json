@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\K0-04\\Desktop\\25.02.2025\\Soru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9267C2AD-6933-4F6E-AD22-823EA6BE8407}|Soru\\Soru.csproj|c:\\users\\k0-04\\desktop\\25.02.2025\\soru\\soru\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9267C2AD-6933-4F6E-AD22-823EA6BE8407}|Soru\\Soru.csproj|solutionrelative:soru\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9267C2AD-6933-4F6E-AD22-823EA6BE8407}|Soru\\Soru.csproj|c:\\users\\k0-04\\desktop\\25.02.2025\\soru\\soru\\views\\deneme_sistemi\\hocama_saygilar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9267C2AD-6933-4F6E-AD22-823EA6BE8407}|Soru\\Soru.csproj|solutionrelative:soru\\views\\deneme_sistemi\\hocama_saygilar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9267C2AD-6933-4F6E-AD22-823EA6BE8407}|Soru\\Soru.csproj|c:\\users\\k0-04\\desktop\\25.02.2025\\soru\\soru\\controllers\\deneme_sistemicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9267C2AD-6933-4F6E-AD22-823EA6BE8407}|Soru\\Soru.csproj|solutionrelative:soru\\controllers\\deneme_sistemicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9267C2AD-6933-4F6E-AD22-823EA6BE8407}|Soru\\Soru.csproj|c:\\users\\k0-04\\desktop\\25.02.2025\\soru\\soru\\data\\migrations\\20250225072449_versiyon2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9267C2AD-6933-4F6E-AD22-823EA6BE8407}|Soru\\Soru.csproj|solutionrelative:soru\\data\\migrations\\20250225072449_versiyon2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hocama_Saygilar.cshtml",
+              "DocumentMoniker": "C:\\Users\\K0-04\\Desktop\\25.02.2025\\Soru\\Soru\\Views\\Deneme_Sistemi\\Hocama_Saygilar.cshtml",
+              "RelativeDocumentMoniker": "Soru\\Views\\Deneme_Sistemi\\Hocama_Saygilar.cshtml",
+              "ToolTip": "C:\\Users\\K0-04\\Desktop\\25.02.2025\\Soru\\Soru\\Views\\Deneme_Sistemi\\Hocama_Saygilar.cshtml",
+              "RelativeToolTip": "Soru\\Views\\Deneme_Sistemi\\Hocama_Saygilar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T09:11:41.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deneme_SistemiController.cs",
+              "DocumentMoniker": "C:\\Users\\K0-04\\Desktop\\25.02.2025\\Soru\\Soru\\Controllers\\Deneme_SistemiController.cs",
+              "RelativeDocumentMoniker": "Soru\\Controllers\\Deneme_SistemiController.cs",
+              "ToolTip": "C:\\Users\\K0-04\\Desktop\\25.02.2025\\Soru\\Soru\\Controllers\\Deneme_SistemiController.cs",
+              "RelativeToolTip": "Soru\\Controllers\\Deneme_SistemiController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAYwJsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:29:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\K0-04\\Desktop\\25.02.2025\\Soru\\Soru\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Soru\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\K0-04\\Desktop\\25.02.2025\\Soru\\Soru\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Soru\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwBkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T08:08:59.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250225072449_versiyon2.cs",
+              "DocumentMoniker": "C:\\Users\\K0-04\\Desktop\\25.02.2025\\Soru\\Soru\\Data\\Migrations\\20250225072449_versiyon2.cs",
+              "RelativeDocumentMoniker": "Soru\\Data\\Migrations\\20250225072449_versiyon2.cs",
+              "ToolTip": "C:\\Users\\K0-04\\Desktop\\25.02.2025\\Soru\\Soru\\Data\\Migrations\\20250225072449_versiyon2.cs",
+              "RelativeToolTip": "Soru\\Data\\Migrations\\20250225072449_versiyon2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:24:49.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
