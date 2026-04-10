@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-17 10:01:06 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MDk6NDg6Mzcgw5bDljsyMzkz"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTA6MDE6MDYgw5bDljsxOzI0Nzg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayac, kalan, not1" type="Integer" array="False" size=""/>
+            <assign variable="sayac" expression="0"/>
+            <assign variable="kalan" expression="0"/>
+            <output expression="&quot;notunuzu giriniz.&quot;" newline="True"/>
+            <input variable="not1"/>
+            <if expression="not1&gt;60">
+                <then>
+                    <assign variable="sayac" expression="sayac+1"/>
+                </then>
+                <else>
+                    <assign variable="kalan" expression="kalan+1"/>
+                    <assign variable="sayac" expression="sayac+1"/>
+                </else>
+            </if>
+            <if expression="not1&lt;20">
+                <then/>
+                <else>
+                    <output expression="kalan" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

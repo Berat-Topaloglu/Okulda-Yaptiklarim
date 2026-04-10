@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-10 11:20:17 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTA7MDk6NTg6NDYgw5bDljsyMzg3"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTA7MTE6MjA6MTcgw5bDljsxOzI0NzU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi1, sayi2, sonuc" type="Integer" array="False" size=""/>
+            <output expression="&quot;l&#252;tfen bir say&#305; giriniz:&quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <output expression="&quot;l&#252;tfen ikinci say&#305;y&#305; giriniz:&quot;" newline="True"/>
+            <input variable="sayi2"/>
+            <if expression="sayi1&gt;sayi2">
+                <then>
+                    <output expression="&quot;bulunan sonuc:&quot;&amp;sayi&gt;sayi2" newline="True"/>
+                </then>
+                <else>
+                    <if expression="sayi2&gt;sayi1">
+                        <then>
+                            <output expression="&quot;bulunan sonuc:&quot;&amp;sayi1&lt;sayi2" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;bulunan sonuc:&quot;&amp;sayi1=sayi2" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,5 @@
+i=60
+while (i>30):
+ print(i)
+ i=i-2
+print("Döngü bitti")

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-24 09:47:24 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMjQ7MDk6Mzg6NDUgw5bDljsyMzg5"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMjQ7MDk6NDc6MjQgw5bDljsxOzI0OTQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="adet, sayac" type="Integer" array="False" size=""/>
+            <declare name="isim" type="String" array="False" size=""/>
+            <output expression="&quot;l&#252;tfen isminizi giriniz.&quot;" newline="True"/>
+            <input variable="isim"/>
+            <output expression="&quot;ka&#231; defa yaz&#305;ls&#305;n?&quot;" newline="True"/>
+            <input variable="adet"/>
+            <for variable="sayac" start="1" end="adet" direction="inc" step="1">
+                <output expression="isim" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

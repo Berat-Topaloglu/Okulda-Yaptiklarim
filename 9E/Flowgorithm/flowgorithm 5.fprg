@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-10 12:21:51 &#214;S"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTA7MTE6MzY6MjUgw5bDljsyMzcz"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTA7MTI6MjE6NTEgw5ZTOzE7MjM0NA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="s&#305;cakl&#305;k" type="Integer" array="False" size=""/>
+            <output expression="&quot;l&#252;tfen bir s&#305;cakl&#305;k de&#287;eri giriniz&quot;" newline="True"/>
+            <input variable="s&#305;cakl&#305;k"/>
+            <if expression="s&#305;cakl&#305;k&lt;=0">
+                <then>
+                    <output expression="&quot;s&#305;cakl&#305;k s&#305;f&#305;r&#305;n alt&#305;nda madde kat&#305; halde:&quot;&amp;s&#305;cakl&#305;k" newline="True"/>
+                </then>
+                <else>
+                    <if expression="s&#305;cakl&#305;k&gt;=0">
+                        <then>
+                            <output expression="&quot;s&#305;cakl&#305;k s&#305;f&#305;r&#305;n &#252;st&#252;nde madde s&#305;v&#305; halde:&quot;&amp;s&#305;cakl&#305;k" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;s&#305;cakl&#305;k y&#252;z&#252;n &#252;st&#252;nde madde gaz halinde:&quot;&amp;s&#305;cakl&#305;k" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

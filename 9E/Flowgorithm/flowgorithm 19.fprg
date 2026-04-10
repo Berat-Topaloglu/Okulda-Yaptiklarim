@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-24 11:52:52 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjA2OzIwMjItMTAtMjQ7MTE6Mzc6NTAgw5bDljsyMzgw"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjA2OzIwMjItMTAtMjQ7MTE6NTI6NTIgw5bDljsxOzI0ODc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, ba&#351;lang&#305;&#231;, biti&#351;, toplam, carpim" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <assign variable="carpim" expression="1"/>
+            <output expression="&quot;l&#252;tfen ba&#351;lang&#305;&#231; de&#287;erini giriniz.&quot;" newline="True"/>
+            <input variable="ba&#351;lang&#305;&#231;"/>
+            <output expression="&quot;l&#252;tfen biti&#351; de&#287;erini giriniz.&quot;" newline="False"/>
+            <input variable="biti&#351;"/>
+            <for variable="i" start="ba&#351;lang&#305;&#231;" end="biti&#351;" direction="inc" step="1">
+                <assign variable="toplam" expression="toplam+i"/>
+                <assign variable="carpim" expression="carpim*i"/>
+            </for>
+            <output expression="&quot;say&#305;lar&#305;n toplam&#305; sonucu:&quot;&amp;toplam" newline="True"/>
+            <output expression="&quot;say&#305;lar&#305;n &#231;arp&#305;m&#305; sonucu:&quot;&amp;carpim" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

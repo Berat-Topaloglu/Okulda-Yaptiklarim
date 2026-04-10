@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-17 12:22:50 &#214;S"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTE6NTI6MjYgw5bDljsyMzc5"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTI6MjI6NTAgw5ZTOzE7MjM1MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayac, toplam, say&#305;, adet" type="Integer" array="False" size=""/>
+            <declare name="ort" type="Real" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <output expression="&quot;ka&#231; adet say&#305; gireceksiniz?&quot;" newline="True"/>
+            <input variable="adet"/>
+            <for variable="sayac" start="1" end="adet" direction="inc" step="1">
+                <output expression="sayac&amp;&quot; . say&#305;y&#305; giriniz.&quot;" newline="True"/>
+                <input variable="say&#305;"/>
+                <assign variable="toplam" expression="toplam+say&#305;"/>
+            </for>
+            <assign variable="ort" expression="toplam/adet"/>
+            <output expression="&quot;girdi&#287;iniz say&#305;n&#305;n ortalamas&#305;:&quot;&amp;ort" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

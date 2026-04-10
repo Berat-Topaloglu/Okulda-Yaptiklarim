@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-17 11:11:27 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTA6NTY6MTggw5bDljsyMzgz"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTE6MTE6Mjcgw5bDljsxOzI0ODM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="toplam, sayac" type="Integer" array="False" size=""/>
+            <declare name="ort" type="Real" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <for variable="sayac" start="1" end="10" direction="inc" step="1">
+                <assign variable="toplam" expression="toplam+sayac"/>
+            </for>
+            <assign variable="ort" expression="toplam/(sayac-1)"/>
+            <output expression="ort" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

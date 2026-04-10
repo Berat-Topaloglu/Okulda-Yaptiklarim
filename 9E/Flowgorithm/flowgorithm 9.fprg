@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-17 10:11:14 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTA6MDQ6Mjggw5bDljsyMzc3"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTA6MTE6MTQgw5bDljsxOzI0Nzg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayac" type="Integer" array="False" size=""/>
+            <for variable="sayac" start="1" end="10" direction="inc" step="1">
+                <output expression="sayac" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

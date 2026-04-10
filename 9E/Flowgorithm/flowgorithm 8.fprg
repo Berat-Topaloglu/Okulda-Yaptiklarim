@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-17 10:03:45 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTA6MDE6MTEgw5bDljsyMzY2"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTA6MDM6NDUgw5bDljsxOzI0ODM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayac" type="Integer" array="False" size=""/>
+            <declare name="ad" type="String" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen ad&#305;n&#305;z&#305; giriniz.&quot;" newline="True"/>
+            <input variable="ad"/>
+            <for variable="sayac" start="1" end="10" direction="inc" step="1">
+                <output expression="ad" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

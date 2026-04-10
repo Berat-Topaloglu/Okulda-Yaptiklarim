@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-24 11:30:02 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMjQ7MTA6MTU6MzEgw5bDljsyMzcx"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMjQ7MTA6NDg6NTQgw5bDljsxOzI0OTA="/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjA2OzIwMjItMTAtMjQ7MTE6MzA6MDIgw5bDljsxOzI0Nzg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, ba&#351;lang&#305;&#231;, biti&#351;" type="Integer" array="False" size=""/>
+            <declare name="se&#231;im" type="String" array="False" size=""/>
+            <output expression="&quot;l&#252;tfen ba&#351;lang&#305;&#231; de&#287;erini giriniz.&quot;" newline="True"/>
+            <input variable="ba&#351;lang&#305;&#231;"/>
+            <output expression="&quot;l&#252;tfen biti&#351; de&#287;erini giriniz.&quot;" newline="True"/>
+            <input variable="biti&#351;"/>
+            <output expression="&quot;l&#252;tfen se&#231;iminizi giriniz:c-C/t-T&quot;" newline="True"/>
+            <input variable="se&#231;im"/>
+            <for variable="i" start="ba&#351;lang&#305;&#231;" end="biti&#351;" direction="inc" step="1">
+                <if expression="se&#231;im==&quot;c&quot;||se&#231;im==&quot;C&quot;">
+                    <then>
+                        <if expression="i%2==0">
+                            <then>
+                                <output expression="i" newline="True"/>
+                            </then>
+                            <else/>
+                        </if>
+                    </then>
+                    <else>
+                        <if expression="se&#231;im==&quot;t&quot;||se&#231;im==&quot;T&quot;">
+                            <then>
+                                <if expression="i%2==1">
+                                    <then>
+                                        <output expression="i" newline="True"/>
+                                    </then>
+                                    <else/>
+                                </if>
+                            </then>
+                            <else/>
+                        </if>
+                    </else>
+                </if>
+            </for>
+            <output expression="&quot;Hatal&#305; bilgi giri&#351;i!&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

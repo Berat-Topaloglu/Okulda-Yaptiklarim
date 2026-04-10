@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-24 10:09:39 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMjQ7MDk6NTE6MDIgw5bDljsyMzc3"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMjQ7MTA6MDk6Mzkgw5bDljsxOzI0OTA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, ba&#351;lang&#305;&#231;, biti&#351;" type="Integer" array="False" size=""/>
+            <output expression="&quot;l&#252;tfen ba&#351;lang&#305;&#231; de&#287;erini giriniz.&quot;" newline="True"/>
+            <input variable="ba&#351;lang&#305;&#231;"/>
+            <output expression="&quot;l&#252;tfen biti&#351; de&#287;erini giriniz.&quot;" newline="True"/>
+            <input variable="biti&#351;"/>
+            <for variable="i" start="ba&#351;lang&#305;&#231;" end="biti&#351;" direction="inc" step="1">
+                <if expression="i%2==1">
+                    <then>
+                        <output expression="i" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

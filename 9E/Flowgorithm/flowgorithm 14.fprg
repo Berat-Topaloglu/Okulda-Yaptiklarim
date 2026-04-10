@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-17 11:52:18 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTE6MzU6MzAgw5bDljsyMzc1"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MTE6NTI6MTggw5bDljsxOzI0ODg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayac, toplam, say&#305;" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <for variable="" start="" end="" direction="inc" step="">
+                <output expression="sayac&amp;&quot; . say&#305;y&#305; giriniz.&quot;" newline="True"/>
+                <input variable="say&#305;"/>
+                <assign variable="toplam" expression="toplam+say&#305;"/>
+            </for>
+            <output expression="&quot;girdi&#287;iniz say&#305;y&#305;n&#305;n toplam&#305;:&quot;&amp;toplam" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

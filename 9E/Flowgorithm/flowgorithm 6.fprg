@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PROZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-17 09:32:31 &#214;&#214;"/>
+        <attribute name="created" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MDk6MTE6MDYgw5bDljsyMzc5"/>
+        <attribute name="edited" value="UFJPWjtQUk9HWjAzOzIwMjItMTAtMTc7MDk6MzI6MzEgw5bDljsyOzI0ODk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="not1, not2, ortalama" type="Integer" array="False" size=""/>
+            <output expression="&quot;l&#252;tfen bir not giriniz.&quot;" newline="True"/>
+            <input variable="not1"/>
+            <output expression="&quot;l&#252;tfen ikinci notu giriniz.&quot;" newline="True"/>
+            <input variable="not2"/>
+            <assign variable="ortalama" expression="not1+not2/2"/>
+            <if expression="not1&gt;=50">
+                <then>
+                    <output expression="&quot;s&#305;n&#305;f&#305; ge&#231;tiniz.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;s&#305;n&#305;f&#305; ge&#231;emediniz.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
