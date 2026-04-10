@@ -1,0 +1,181 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sinav</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Sinav.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow pt-3 pb-3" style="background-color:dimgrey;">
+            <div class="container-fluid">
+                <a class="navbar-brand fw-light text-light" asp-area="" asp-controller="Kayits" asp-action="Index2" style="padding-left:55px;">SINAV</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex">
+                    <ul class="navbar-nav flex-grow-1 justify-content-end pe-4">
+                        <li class="nav-item">
+                            <a class="nav-link text-white border-bottom border-success" asp-area="" asp-controller="Kayits" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" style="color:grey;">About</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="card text-bg-dark">
+            <img src="~/img/hero-carousel-1.jpg" class="card-img" alt="...">
+            <div class="card-img-overlay">
+                <div class="text-center" style="padding-top:18%;">
+                    <div class="card-body">
+                        <h2 class="card-title" style="font-family:Cambria;">We are professional</h2>
+                        <p class="card-text w-75 m-auto mb-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <a href="#" class="btn btn-success text-white">Get Started</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <div class="container-fluid">
+        <h3 class="text-center mb-3">Portfolio</h3>
+        <div class="container">
+            <div class="row gx-1 justify-content-center mb-5">
+
+                <div class="col-lg-4 col-md-12">
+                    <img src="~/img/app-1.jpg" width="350" height="350" />
+                </div>
+
+                <div class="col-lg-4 col-md-12">
+                    <img src="~/img/product-1.jpg" width="350" height="350" />
+                </div>
+
+                <div class="col-lg-4 col-md-12">
+                    <img src="~/img/branding-1.jpg" width="350" height="350" />
+                </div>
+
+            </div>
+            <div class="row gx-1 justify-content-center">
+
+                <div class="col-lg-4 col-md-12">
+                    <img src="~/img/branding-3.jpg" width="350" height="350" />
+                </div>
+
+                <div class="col-lg-4 col-md-12">
+                    <img src="~/img/app-2.jpg" width="350" height="350" />
+                </div>
+
+                <div class="col-lg-4 col-md-12">
+                    <img src="~/img/product-2.jpg" width="350" height="350" />
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Footer -->
+    <footer class="bg-black mt-4 pt-3 pb-3">
+        <!-- Section: Text -->
+        <!-- Section: Links -->
+        <section class="">
+            <!--Grid row-->
+            <div class="row justify-content-center">
+                <!--Grid column-->
+                <div class="col-lg-3 col-md-8 mb-4 mb-md-0">
+                    <h5 class="text-white">SINAV</h5>
+
+                    <ul class="list-unstyled mb-0">
+                        <li>
+                            <a class="text-white text-decoration-none" href="#!">Tuzla/İstanbul</a>
+                        </li>
+                        <li>
+                            <a class="text-white text-decoration-none" href="#!">No:20 B Blok/Daire:11</a>
+                        </li>
+                        <li>
+                            <a class="text-white text-decoration-none pt-4" href="#!">Phone : 555555</a>
+                        </li>
+                        <li>
+                            <a class="text-white text-decoration-none" href="#!">E-Mail:support@gmail.com</a>
+                        </li>
+                    </ul>
+                    <div class="mt-3 mb-3 text-light">
+                        <a><i class="bi bi-twitter-x pe-2"></i></a>
+                        <a><i class="bi bi-facebook pe-2"></i></a>
+                        <a><i class="bi bi-instagram pe-2"></i></a>
+                        <a><i class="bi bi-linkedin pe-2"></i></a>
+                    </div>
+                </div>
+                <!--Grid column-->
+                <!--Grid column-->
+                <div class="col-lg-3 col-md-auto mb-4 mb-md-0">
+                    <h5 class="text-white">Our Services</h5>
+
+                    <ul class="list-unstyled mb-0">
+                        <li>
+                            <a class="text-white text-decoration-none" href="#!">Web Design</a>
+                        </li>
+                        <li>
+                            <a class="text-white text-decoration-none" href="#!">Web Development</a>
+                        </li>
+                        <li>
+                            <a class="text-white text-decoration-none" href="#!">Product Managament</a>
+                        </li>
+                        <li>
+                            <a class="text-white text-decoration-none" href="#!">Marketting</a>
+                        </li>
+                        <li>
+                            <a class="text-white text-decoration-none" href="#!">Graphic Design</a>
+                        </li>
+                    </ul>
+                </div>
+                <!--Grid column-->
+                <!--Grid column-->
+                <div class="col-lg-3 col-md-auto mb-4 mb-md-0">
+                    <h5 class="text-white">Our Newsletter</h5>
+                    <p class="text-white">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum
+                        repellat quaerat voluptatibus placeat nam
+                    </p>
+                    <div class="row d-flex justify-content-center">
+                        <!--Grid column-->
+                        <!--Grid column-->
+                        <div class="col-md-7 col-12">
+                            <!-- Email input -->
+                            <div data-mdb-input-init class="form-outline mb-4">
+                                <input type="email" id="form5Example24" class="form-control" placeholder="E-Mail Adress" />
+                            </div>
+                        </div>
+                        <!--Grid column-->
+                        <!--Grid column-->
+                        <div class="col-auto">
+                            <!-- Submit button -->
+                            <button data-mdb-ripple-init type="submit" class="btn btn-success mb-4">
+                                Subscribe
+                            </button>
+                        </div>
+                        <!--Grid column-->
+                    </div>
+                </div>
+                <!--Grid column-->
+            </div>
+            <!--Grid row-->
+        </section>
+        <!-- Section: Links -->
+    </footer>
+    <!-- Footer -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|c:\\users\\prog5\\desktop\\performans \u00F6devi\\berat topaloglu\\berat topaloglu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|solutionrelative:berat topaloglu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|c:\\users\\prog5\\desktop\\performans \u00F6devi\\berat topaloglu\\berat topaloglu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|solutionrelative:berat topaloglu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|c:\\users\\prog5\\desktop\\performans \u00F6devi\\berat topaloglu\\berat topaloglu\\views\\my_site\\ana_sayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|solutionrelative:berat topaloglu\\views\\my_site\\ana_sayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|c:\\users\\prog5\\desktop\\performans \u00F6devi\\berat topaloglu\\berat topaloglu\\controllers\\my_sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|solutionrelative:berat topaloglu\\controllers\\my_sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|c:\\users\\prog5\\desktop\\performans \u00F6devi\\berat topaloglu\\berat topaloglu\\models\\my_site.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A3A3DE-C5B5-4D61-8381-EAC8D426DC70}|Berat Topaloglu\\Berat Topaloglu.csproj|solutionrelative:berat topaloglu\\models\\my_site.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ana_Sayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Views\\My_Site\\Ana_Sayfa.cshtml",
+              "RelativeDocumentMoniker": "Berat Topaloglu\\Views\\My_Site\\Ana_Sayfa.cshtml",
+              "ToolTip": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Views\\My_Site\\Ana_Sayfa.cshtml",
+              "RelativeToolTip": "Berat Topaloglu\\Views\\My_Site\\Ana_Sayfa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T09:12:15.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Program.cs",
+              "RelativeDocumentMoniker": "Berat Topaloglu\\Program.cs",
+              "ToolTip": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Program.cs",
+              "RelativeToolTip": "Berat Topaloglu\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:11:50.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Berat Topaloglu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Berat Topaloglu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwCoAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T07:59:11.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "My_SiteController.cs",
+              "DocumentMoniker": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Controllers\\My_SiteController.cs",
+              "RelativeDocumentMoniker": "Berat Topaloglu\\Controllers\\My_SiteController.cs",
+              "ToolTip": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Controllers\\My_SiteController.cs",
+              "RelativeToolTip": "Berat Topaloglu\\Controllers\\My_SiteController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:12:41.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "My_Site.cs",
+              "DocumentMoniker": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Models\\My_Site.cs",
+              "RelativeDocumentMoniker": "Berat Topaloglu\\Models\\My_Site.cs",
+              "ToolTip": "C:\\Users\\Prog5\\Desktop\\Performans \u00D6devi\\Berat Topaloglu\\Berat Topaloglu\\Models\\My_Site.cs",
+              "RelativeToolTip": "Berat Topaloglu\\Models\\My_Site.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:48:13.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
