@@ -1,0 +1,84 @@
+﻿﻿* {
+    box-sizing: border-box;
+}
+body{
+    background-color:white;
+}
+.container {
+    width: 95%;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    padding:8px;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+    ul li {
+        float: left;
+    }
+
+        ul li a {
+            display: block;
+            padding: 12px 14px;
+            text-decoration: none;
+            color: grey;
+        }
+
+            ul li a:hover {
+                color:orange;
+            }
+
+.menu {
+    float:right;
+    width:45%;
+    height:100px;
+    overflow:hidden;
+}
+.orta_alan {
+    width: 100%;
+    height: 300px;
+    background-color:white;
+}
+.yazi{
+    width:75%;
+    height:150px;
+    padding:10px;
+    color:grey;
+}
+
+.kutu {
+    width: 23%;
+    height: auto;
+    overflow: hidden;
+    float: left;
+    margin: 1%;
+    border-right:2px solid grey;
+}
+
+.temizle {
+    clear: both;
+}
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: darkseagreen;
+}
+.foto{
+    width:50%;
+}
+@media screen and (max-width:700px) {
+    .foto{
+        width:100%;
+    }
+}
